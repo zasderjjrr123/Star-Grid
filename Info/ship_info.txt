@@ -1,0 +1,256 @@
+51
+Heavy Armor
+1
+0
+150
+1000
+Heavy Armor Corner
+2
+1
+75
+500
+Heavy Armor Edge
+3
+1
+140
+800
+Heavy Armor Inner Corner
+4
+1
+140
+900
+Medium Armor
+5
+0
+100
+750
+Medium Armor Corner
+6
+1
+50
+325
+Medium Armor Edge
+7
+1
+90
+600
+Medium Armor Inner Corner
+8
+1
+90
+675
+Light Armor
+9
+0
+70
+450
+Light Armor Corner
+10
+1
+35
+225
+Light Armor Edge
+11
+1
+60
+350
+Light Armor Inner Corner
+12
+1
+60
+405
+Low Pressure Tank Body
+21
+0
+20
+100
+Low Pressure Tank Corner
+22
+1
+16
+100
+Low Pressure Tank Edge
+23
+1
+18
+100
+Low Pressure Tank Inner Corner
+24
+1
+19
+100
+Low Pressure Tank Interface
+40
+1
+19
+100
+Low Pressure Tube (Straight)
+42
+1
+20
+70
+Low Pressure Tube (Corner)
+43
+1
+20
+70
+Low Pressure Tube (T Split)
+44
+1
+20
+70
+High Pressure Tank Body
+25
+0
+30
+150
+High Pressure Tank Corner
+26
+1
+25
+150
+High Pressure Tank Edge
+27
+1
+27
+150
+High Pressure Tank Inner Corner
+28
+1
+29
+150
+High Pressure Tank Interface
+49
+1
+29
+150
+High Pressure Tube (Straight)
+45
+1
+25
+110
+High Pressure Tube (Corner)
+46
+1
+25
+110
+High Pressure Tube (T Split)
+47
+1
+25
+110
+Battery Body
+29
+0
+25
+300
+Battery Corner
+30
+1
+22
+300
+Battery Edge
+31
+1
+23
+300
+Battery Inner Corner
+32
+1
+24
+300
+Battery Interface
+33
+1
+24
+300
+Power Conduit (Straight)
+50
+1
+22
+75
+Power Conduit (Corner)
+51
+1
+22
+75
+Power Conduit (T Split)
+52
+1
+22
+75
+Reactor Core
+13
+0
+40
+1000
+Turbine
+14
+1
+30
+750
+Pump
+15
+1
+30
+750
+Low Pressure Valve
+41
+1
+30
+500
+High Pressure Valve
+48
+1
+30
+500
+Engine Bell
+17
+1
+80
+300
+Blast Chamber
+16
+1
+50
+300
+Blast Tubing (Straight)
+18
+1
+50
+300
+Blast Tubing (Corner)
+19
+1
+50
+300
+Blast Tubing (T Split)
+20
+1
+50
+300
+Low Pressure / Low Pressure Cross
+53
+1
+20
+120
+Low Pressure  / Conduit Cross
+34
+1
+25
+120
+Low Pressure / High Pressure Cross
+54
+1
+25
+120
+High Pressure / High Pressure Cross
+35
+1
+25
+120
+High Pressure / Conduit Cross
+55
+1
+25
+120

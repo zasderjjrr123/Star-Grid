@@ -1,0 +1,8 @@
+List of Particles:
+General:
+	0-3  : Shallow Rock Scrap
+	20-23: Heavy Rock Scrap
+	4-7  : Circular Fire to Smoke
+	8-10 : Metal Beam Scrap
+	28-30: Metal Plate Scrap
+	11   : Small Spark / Small Bullet
