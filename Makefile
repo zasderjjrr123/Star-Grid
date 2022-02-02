@@ -7,6 +7,8 @@ CXX = g++
 # debugging flags (comment if not needed)
 DB_FLAGS = -Wall -g
 
+# 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
+
 l: main.cpp asteroid.o sprite.o entity.h frame_counter.o particle.o fighter.o editor.o
 	$(CXX) $(DB_FLAGS) sprite.o particle.o label.o frame_counter.o asteroid.o editor.o fighter.o main.cpp $(SDL) -o l
 
